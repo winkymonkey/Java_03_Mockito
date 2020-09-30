@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example.tdd</groupId>
-	<artifactId>Mockito</artifactId>
+	<artifactId>Java_03_Mockito</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Mockito</name>
+	<name>Java_03_Mockito</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
