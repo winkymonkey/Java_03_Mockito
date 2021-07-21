@@ -1,4 +1,4 @@
-package com.example.tdd;
+package org.example.tdd;
 
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.*;

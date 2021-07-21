@@ -1,4 +1,4 @@
-package com.example.tdd;
+package org.example.tdd;
 
 import java.util.Collections;
 import java.util.List;
